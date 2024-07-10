@@ -12,5 +12,5 @@ Download and import MindMapCloze.apkg in this repository. A new note type name M
 
 # Screenshots
 
-![Cloze Front.](Cloze Front.png)
-![Cloze Back.](Cloze Back.png)
+![Cloze Front](Cloze Front.png)
+![Cloze Back](Cloze Back.png)
