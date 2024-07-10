@@ -4,7 +4,7 @@ Inspired by [Anki X Markdown X MindMap](https://ankiweb.net/shared/info/72848286
 
 # How to use
 
-Download and import MindMapCloze.apkg in this repository. A new note type name MindMap Cloze is added.
+Download and import MindMapCloze.apkg in this repository. A new note type named MindMap Cloze is added.
 
 # Markdown Syntax
 
