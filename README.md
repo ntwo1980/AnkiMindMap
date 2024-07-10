@@ -12,5 +12,5 @@ Download and import MindMapCloze.apkg in this repository. A new note type name M
 
 # Screenshots
 
-![Cloze Front](Cloze Front.png)
-![Cloze Back](Cloze Back.png)
+![Cloze Front](https://github.com/ntwo1980/AnkiMindMap/blob/main/Cloze%20Front.png?raw=true)
+![Cloze Back](https://github.com/ntwo1980/AnkiMindMap/blob/main/Cloze%20Back.png?raw=true)
