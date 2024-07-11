@@ -14,11 +14,13 @@ Download and import MindMapCloze.apkg in this repository. A new note type named 
 
 If the mind map is big, it will be zoomed out to fit the window. You can use following setting to set the size of mindmap. If the last cloze is outside the window, it will be moved into the window automatically.
 
+```
 ---
 markmap:
   width: 1000px
   height: 1000px
 ---
+```
 
 # Screenshots
 
