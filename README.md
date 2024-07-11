@@ -21,7 +21,7 @@ markmap:
   height: 1000px
 ---
 
-# Why to use anki
+# Why use anki
 
 ## Multipe OS support
 ## Addon support
