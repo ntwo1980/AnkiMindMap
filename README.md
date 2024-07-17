@@ -29,6 +29,14 @@ markmap:
 
 # Screenshots
 
+Cloze Front
+
 ![Cloze Front](https://github.com/ntwo1980/AnkiMindMap/blob/main/Cloze%20Front.png?raw=true)
+
+Cloze Back
+
 ![Cloze Back](https://github.com/ntwo1980/AnkiMindMap/blob/main/Cloze%20Back.png?raw=true)
-![Big Mind Map](https://github.com/ntwo1980/AnkiMindMap/blob/main/Big%20Mind%20Map.png?raw=true)
+
+Large Mind Map
+
+![Large Mind Map](https://github.com/ntwo1980/AnkiMindMap/blob/main/Big%20Mind%20Map.png?raw=true)
