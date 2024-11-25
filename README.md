@@ -19,6 +19,7 @@ markmap:
   width: 1000px
   height: 1000px
   foldExpression: ([^#]+##[^#]+)|(^##[^#]+)
+  hideAllShowOne: true
 ---
 
 # Why use anki
